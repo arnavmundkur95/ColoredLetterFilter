@@ -14,3 +14,7 @@ screen change constantly, giving it a dynamic effect, or are set just once.
 Pressing the 'r' key toggles randomness, and pressing the 'c' key toggles the constant mode.
 
 All images used are obtained via google images.
+
+
+<img width="1200" alt="Screenshot 2022-05-16 at 10 29 48" src="https://user-images.githubusercontent.com/39627628/168551722-85cdede2-122d-4923-9e69-ba76c91ff92e.png">
+![Uploading Screenshot 2022-05-16 at 10.27.26.png…]()
