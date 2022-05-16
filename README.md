@@ -17,4 +17,5 @@ All images used are obtained via google images.
 
 
 <img width="1200" alt="Screenshot 2022-05-16 at 10 29 48" src="https://user-images.githubusercontent.com/39627628/168551722-85cdede2-122d-4923-9e69-ba76c91ff92e.png">
-![Uploading Screenshot 2022-05-16 at 10.27.26.png…]()
+
+<img width="1200" alt="Screenshot 2022-05-16 at 10 27 26" src="https://user-images.githubusercontent.com/39627628/168551804-1836d44b-9d9c-4c45-a435-cf20d9398459.png">
